@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaewon0502
-- 👀 I’m interested in ... DevOps, ML
+- 👀 I’m interested in liner algebra, claude, codex
 - 🌱 I’m currently learning ... PYTHON, C, Algorithm, Computer Organization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
